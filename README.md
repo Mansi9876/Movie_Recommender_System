@@ -7,6 +7,6 @@ In content based filtering, recommendation is given by only watching single user
  It uses attributes such as  director, description, actors, etc. for movies, to make suggestions for the users.
 
 for user interface streamlit framework is used.
-run the project as   streamlit run web.py
-first unzip the zip files then run the project
-make sure that similarity.pkl is a single file that split in two parts ,so first make sure to make it a simgle file then run the project as streamlit run web.py
+run the project as   streamlit run web.py.
+first unzip the zip files then run the project.
+make sure that similarity.pkl is a single file that split in two parts ,so first make sure to make it a single file then run the project as streamlit run web.py
